@@ -3,7 +3,7 @@
 Escape game 3D en vue à la première personne, dans les backrooms. Chaque salle a son décor, son ambiance sonore et sa chaîne d'énigmes : une découverte en débloque une autre jusqu'à la clé. Avec la clé, la porte s'ouvre et le joueur tombe dans la salle suivante.
 
 **Jouer :** 
-
+https://megane-digit.github.io/escape-backrooms/
 Fonctionne sur PC, Android et iPhone, directement dans le navigateur. Rien à installer.
 
 ## Le jeu
